@@ -2,8 +2,8 @@ import os
 import re
 
 
-input_file = "README.md"
-output_dir = "docs"
+input_file = "../README.md"
+output_dir = "../docs"
 toc_file = os.path.join(output_dir, "00_TableofContents.md")
 
 if not os.path.exists(output_dir):
