@@ -1,6 +1,6 @@
 ### Table of Contents
 
-* [Features](#Features)
+* [Features](#02_Features.md)
 * [Limitations](#Limitations)
 * [Installation](#Installation)
 * [License](#License)
